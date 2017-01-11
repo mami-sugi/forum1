@@ -1,7 +1,6 @@
 <?php
 function getDb(){/*データベース接続*/
     $hostname = "localhost";//データベースのホスト名
-    //$hostname = "127.0.0.1";//データベースのホスト名
     $dbname = "forum1";//データベースの名前
     $username = "root";//データベースのユーザー名
     $password = "";//ユーザーのパスワード
